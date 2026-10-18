@@ -1,6 +1,5 @@
 # BAZSET Sega System 1 / System 2 for MiSTer FPGA
 
-**Source-code preview — B24 (13 October 2026)**  
 **Platform:** MiSTer FPGA / DE10-Nano  
 **Based on:** MiSTer-X's Sega System 1/2 FPGA core, maintained in Blackwine's [Arcade-SEGASYS1_MiSTer](https://github.com/blackwine/Arcade-SEGASYS1_MiSTer) repository.
 
