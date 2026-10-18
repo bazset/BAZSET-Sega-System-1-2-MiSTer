@@ -156,5 +156,3 @@ This is a derivative of **MiSTer-X's** original Sega System 1/2 MiSTer FPGA core
 
 This project is provided **as-is**, without warranty. Contributors are welcome to report reproducible bugs, ideally with an exact game revision, FPGA build version and screenshots or test recordings.
 
----
-*BAZSET B24 source-only public-review draft — not yet published to GitHub.*
