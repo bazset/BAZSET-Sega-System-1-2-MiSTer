@@ -1,0 +1,42 @@
+# Quartus output, generated files, reports
+/db/
+/incremental_db/
+/output_files/
+/*.log
+/*.rpt
+/*.smsg
+/*.srf
+/*.cdf
+/.qsys_edit/
+/*.qws
+/reports/
+*.sof
+*.pof
+*.rbf
+*.qdb
+*.qdf
+*.qws
+*.vvp
+*.o
+*.exe
+
+# Non-source game files: never commit
+*.rom
+*.bin
+*.zip
+*.7z
+*.chd
+*.key
+*.mif
+*.mem
+*.hex
+*.nes
+*.sms
+*.smd
+
+# OS/editor temporary files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.bak
